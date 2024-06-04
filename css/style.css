@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Nerko+One&display=swap');
+/* header */
+header{
+  background-color: #2A9D8F;
+  width: 1440px;
+  margin: auto;
+  padding: 38px 130px;
+}
+.head_logo_link{
+  width: 46px;
+  height: 46px;
+  display: inline-block;
+  vertical-align: middle;
+}
+.header_logo_img{
+  width: 100%;
+  height: 100%;
+}
+.header_nav{
+  display: inline-block;
+  margin-left: 697px;
+  vertical-align: middle;
+}
+.header_li{
+  display: inline-block;
+}
+.middle_li{
+  margin-inline: 80px;
+}
+.header_li_link{
+font-family: "Nerko One", cursive;
+font-weight: 400;
+font-style: normal;
+font-size: 31px; /* ქალბატონო თამუნა - აქ 32px, რომ დამეწერა როგორც figma_ში იყო მოცემული, header_ში ელემენტები ირეოდა და რამე სერიოზული პრობლემა ხომარაა ეს ? padding _ ებს რომ მივადექი მაშნ იჩნა თავი (იმედი მაქვს მარტო ამ ერთი პიქსელიკოს  ბრალი იყო და მე არ ავურიე სხვა რამე მანამდე) :) P.S. მადლობა <3*/
+color: #FFFFFF;
+}
+/* cover */
